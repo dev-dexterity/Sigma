@@ -1,0 +1,12 @@
+.audio{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.video{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-between;
+}
